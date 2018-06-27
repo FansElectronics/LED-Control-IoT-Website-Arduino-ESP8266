@@ -1,7 +1,7 @@
 # LED-Control-IoT-Website-Arduino-ESP8266
 Project LED Control Internet of Things (Pengendai Lampu Dengan Internet)
 
-Disini sayaakan memberikan tutorial dengan pemrograman website (PHP,MySql) dengan menggunakan XAMPP.
+Disini saya akan memberikan tutorial dengan pemrograman website (PHP,MySql) dengan menggunakan XAMPP.
 Dan untuk pemrograman Arduino saya menggunakan modul ESP8266-12MOD (nodeMCU V.1.0)
 
 # http://www.fanselectronics.com/
