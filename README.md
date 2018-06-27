@@ -6,6 +6,9 @@ Dan untuk pemrograman Arduino saya menggunakan modul ESP8266-12MOD (nodeMCU V.1.
 
 # http://www.fanselectronics.com/
 
+# Referensi
+* https://www.fanselectronics.com/blog/video-tutorial-install-library-esp8266/
+
 # Video
 * Part 1: https://www.youtube.com/watch?v=mQQziKbP5vM
 * Part 2: https://www.youtube.com/watch?v=BMvTntxGdY4
